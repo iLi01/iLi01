@@ -1,7 +1,14 @@
-# Hello, I'm iLi! :wave: :sunny:
+# Hellow, I'm iLi!:sunny:
 
 ### Junior web developer & designer:smile:
 
+I love using *good* design in my code. Graphic design graduate. Working towards becoming a full time software developer! 
+
+- 🔭 I’m currently working on a [Pomodoro timer for coding](http://https://github.com/iLi01/pomodoro-frog "Pomodoro timer for coding")
+- 📫 How to reach me: ilinca.pricop100@gmail.com
+- 👨‍💻 View my Portfolio
+- ⚡ Fun fact:  I'm also an illustrator :tw-1f3a8: & pianist :tw-1f3b9: 
+  
 <!--
 **iLi01/iLi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
