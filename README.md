@@ -2,6 +2,9 @@
 
 ### Junior web developer & designer :smile:
 
+------------
+
+
 I love using *good* design in my code. Graphic design graduate. Working towards becoming a full time software developer! 
 
 - 🔭 I’m currently working on a [Pomodoro timer for coding](http://https://github.com/iLi01/pomodoro-frog "Pomodoro timer for coding")
@@ -10,9 +13,22 @@ I love using *good* design in my code. Graphic design graduate. Working towards 
 - ⚡ Fun fact:  I'm also an illustrator & pianist
 
 
+------------
+
+
 ### Latest project :
-ACME x games: Collaborated as a group to create a 
-![chrome_q6oe5qIqH2](https://github.com/iLi01/iLi01/assets/140189297/7630b35a-0d4b-444e-a74a-681f83936f5a)
+ACME x games: https://acme-games-orpin.vercel.app/ 
+Collaborated as a group to create a website  
+![chrome_q6oe5qIqH2](https://github.com/iLi01/iLi01/assets/140189297/7d6e3780-77fa-4bbd-9c9f-623cc54174b4)
+![chrome_732LyAURxD](https://github.com/iLi01/iLi01/assets/140189297/75896550-a8d7-4284-a7a6-3a42786ff580) ![chrome_uDS8Nlt0tF](https://github.com/iLi01/iLi01/assets/140189297/857fda87-a781-41fa-ad4b-daf9cdc3ab66)
+
+
+
+
+------------
+
+
+.
 
 <!--
 **iLi01/iLi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
