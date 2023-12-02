@@ -1,6 +1,6 @@
-# Hellow, I'm iLi!:sunny:
+# Hellow, I'm iLi! :sunny:
 
-### Junior web developer & designer:smile:
+### Junior web developer & designer :smile:
 
 I love using *good* design in my code. Graphic design graduate. Working towards becoming a full time software developer! 
 
@@ -12,8 +12,8 @@ I love using *good* design in my code. Graphic design graduate. Working towards 
 
 ### Latest project :
 ACME x games: Collaborated as a group to create a 
-[![screenshot1](https://drive.google.com/file/d/1csNtxKbYDyGe-Yia1DGNYquT7Q_HKfkD/view?usp=sharing "screenshot1")](http://https://drive.google.com/file/d/1csNtxKbYDyGe-Yia1DGNYquT7Q_HKfkD/view?usp=sharing "screenshot1")
-  
+![chrome_q6oe5qIqH2](https://github.com/iLi01/iLi01/assets/140189297/7630b35a-0d4b-444e-a74a-681f83936f5a)
+
 <!--
 **iLi01/iLi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
