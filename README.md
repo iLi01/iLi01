@@ -1,6 +1,6 @@
 # Hellow, I'm iLi! :sunny:
 
-### Junior web developer & designer :smile:
+### Junior web developer & designer
 
 ------------
 
