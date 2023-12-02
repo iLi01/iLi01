@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello, I'm iLi! :wave: :sunny:
+
+### Junior web developer & designer:smile:
 
 <!--
 **iLi01/iLi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
