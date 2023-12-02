@@ -19,8 +19,9 @@ I love using *good* design in my code. Graphic design graduate. Working towards 
 ### Latest project :
 ACME x games: https://acme-games-orpin.vercel.app/ 
 Collaborated as a group to create a website  
-![chrome_q6oe5qIqH2](https://github.com/iLi01/iLi01/assets/140189297/7d6e3780-77fa-4bbd-9c9f-623cc54174b4)
-![chrome_732LyAURxD](https://github.com/iLi01/iLi01/assets/140189297/75896550-a8d7-4284-a7a6-3a42786ff580) ![chrome_uDS8Nlt0tF](https://github.com/iLi01/iLi01/assets/140189297/857fda87-a781-41fa-ad4b-daf9cdc3ab66)
+![chrome_q6oe5qIqH2](https://github.com/iLi01/iLi01/assets/140189297/7d6e3780-77fa-4bbd-9c9f-623cc54174b4) 
+
+![chrome_732LyAURxD](https://github.com/iLi01/iLi01/assets/140189297/75896550-a8d7-4284-a7a6-3a42786ff580) ![chrome_SJKR6Xz7dT](https://github.com/iLi01/iLi01/assets/140189297/214b00c6-a7e5-439c-b6e4-a08f22c5c4f6) ![chrome_uDS8Nlt0tF](https://github.com/iLi01/iLi01/assets/140189297/857fda87-a781-41fa-ad4b-daf9cdc3ab66) ![chrome_nEfyDCiwjZ](https://github.com/iLi01/iLi01/assets/140189297/33f32b42-ab69-41bb-b078-94a6ea19743f)
 
 
 
