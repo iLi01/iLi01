@@ -16,6 +16,12 @@ I love using *good* design in my code. Graphic design graduate. Working towards 
 ------------
 
 
+### Languages & Tools:
+aws bootstrap bulma css3 firebase gcp git html5 javascript nodejs photoshop python react reactnative unity
+
+------------
+
+
 ### Latest project :
 ACME x games: https://acme-games-orpin.vercel.app/ 
 Collaborated as a group to create a website that would help the user easily navigate the best deals for their favourite video games, using an api. Updates on a regular basis.
