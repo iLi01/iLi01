@@ -17,7 +17,8 @@ I love using *good* design in my code. Graphic design graduate. Working towards 
 
 
 ### Languages & Tools:
-aws bootstrap bulma css3 firebase gcp git html5 javascript nodejs photoshop python react reactnative unity
+html5 css3 javascript bootstrap git github nodejs vscode photoshop illustrator figma react
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vscode,ps,ai,figma,react,flutter&perline=3)](https://skillicons.dev)
 
 ------------
 
