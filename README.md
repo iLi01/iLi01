@@ -9,8 +9,8 @@ I love using *good* design in my code. Graphic design graduate. Working towards 
 
 - 🔭 I’m currently working on a [Pomodoro timer for coding](http://https://github.com/iLi01/pomodoro-frog "Pomodoro timer for coding")
 - 📫 How to reach me: ilinca.pricop100@gmail.com
-- 👨‍💻 View my Portfolio
 - ⚡ Fun fact:  I'm also an illustrator & pianist
+<!-- 👨‍💻 View my Portfolio-->
 
 
 ------------
