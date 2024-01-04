@@ -3,7 +3,7 @@
 ### Junior web developer & designer
 
 ------------
-
+### !!!CHECK PINNED UNDER THIS TO SEE MY MOST RECENT PROJECTS!!!
 
 I love using *good* design in my code. Graphic design graduate. Working towards becoming a full time software developer! 
 
